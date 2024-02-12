@@ -1,6 +1,3 @@
-Certainly! Below is a template for a well-structured and documented `README.md` file for your PropSync property management application using Spring Boot:
-
----
 
 # PropSync - Property Management Application
 
